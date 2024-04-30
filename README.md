@@ -35,5 +35,7 @@
 ## Авторы
 
 - Дугин Максим Денисович ([@MaksimDugin](https://github.com/MaksimDugin))
+
 tg: @makdugin
+
 email: maxdugin03@rambler.ru
